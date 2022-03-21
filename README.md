@@ -1,10 +1,10 @@
-## Team Name
-###### CareVR
+# Team Name
+#### CareVR
 
-## Timeline
-###### Summer 2021 – Fall 2021
+# Timeline
+#### Summer 2021 – Fall 2021
 
-## Team
+# Team
 ###### - Din (Max) Chan
 ###### - Adam Albawab
 ###### - Kyle Deweese
