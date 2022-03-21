@@ -43,4 +43,5 @@ By working on the project and related documentation for two semesters the team m
 - Fix remaining bugs from all scenes
 - Get an app ready to deploy
 
+# Demo Video
 [![Simulation Demo](https://img.youtube.com/vi/cJNyMeZkcU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=cJNyMeZkcU4 "CareVr Simulation Demo")
