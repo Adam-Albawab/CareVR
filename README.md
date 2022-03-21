@@ -35,4 +35,4 @@ The system overview of our project consists of two high-level layers. These laye
 By working on the project and related documentation for two semesters the team managed to achieve all of the requirements as well as set a solid foundation for the next team to work on the second scenario. The demo below shows the two scenes that were created.
 
 
-[![Simulation Demo](https://img.youtube.com/vi/cJNyMeZkcU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=cJNyMeZkcU4 "CareVr Simulation Demo")
+[![Simulation Demo](https://img.youtube.com/vi/cJNyMeZkcU4/hqdefault.jpg)](https://www.youtube.com/watch?v=cJNyMeZkcU4 "CareVr Simulation Demo")
