@@ -1,8 +1,6 @@
-# Team Name
-#### CareVR
-
-# Timeline
-#### Summer 2021 – Fall 2021
+# Team Name & Timeline
+###### CareVR
+###### Summer 2021 – Fall 2021
 
 # Team
 ###### - Din (Max) Chan
