@@ -1,14 +1,10 @@
-# Team & Timeline
 CareVR - Summer 2021 – Fall 2021
 ------
+## Team:
 ###### - Din (Max) Chan
 ###### - Adam Albawab
 ###### - Kyle Deweese
 ###### - Nikolas Murguia
-
-
-# Team
-
 
 ## Sponsors
 ###### - RaeAnna Jeffers, Health Sciences Librarian 
