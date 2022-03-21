@@ -1,16 +1,16 @@
-# Team Name
-## CareVR
+## Team Name
+###### CareVR
 
-# Timeline
-## Summer 2021 – Fall 2021
+## Timeline
+###### Summer 2021 – Fall 2021
 
-# Students
+## Team
 ###### - Din (Max) Chan
 ###### - Adam Albawab
 ###### - Kyle Deweese
 ###### - Nikolas Murguia
 
-# Sponsors
+## Sponsors
 ###### - RaeAnna Jeffers, Health Sciences Librarian 
 ###### - Jennifer Roye, Assistant Dean of Simulation and Technology 
 ###### - UTA Computer Science Dept. 
