@@ -32,5 +32,7 @@ The sponsor and customer for this project is the Department of Nursing at the Un
 The system overview of our project consists of two high-level layers. These layers include the user interface layer as well as the software layer. The user interface layer is made up of the systems which enable the user to input data to affect the virtual reality environment and receive feedback on what those effects are. The software layer handles what occurs in the virtual reality environment, including how user input affects it and processes how it should be updated. It then sends the updated environment back to the user through the PC. 
 
 # Results
-By working on the project and related documentation for two semesters the team managed to achieve all of the requirements as well as set a solid foundation for the next team to work on the second scenario. The demo below shows the two scenes that were worked on.
+By working on the project and related documentation for two semesters the team managed to achieve all of the requirements as well as set a solid foundation for the next team to work on the second scenario. The demo below shows the two scenes that were created.
+
+
 [![Simulation Demo](https://img.youtube.com/vi/cJNyMeZkcU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=cJNyMeZkcU4 "CareVr Simulation Demo")
