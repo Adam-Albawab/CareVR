@@ -1,6 +1,6 @@
 CareVR - Summer 2021 – Fall 2021
 ------
-## Team:
+Team:
 ###### - Din (Max) Chan
 ###### - Adam Albawab
 ###### - Kyle Deweese
@@ -33,11 +33,4 @@ The system overview of our project consists of two high-level layers. These laye
 
 # Results
 By working on the project and related documentation for two semesters the team managed to achieve all of the requirements as well as set a solid foundation for the next team to work on the second scenario. The demo below shows the two scenes that were worked on.
-
-# Future Work
-- Finish up Scenarios 3 and 4
-- Fix remaining bugs from all scenes
-- Get an app ready to deploy
-
-# Demo Video
 [![Simulation Demo](https://img.youtube.com/vi/cJNyMeZkcU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=cJNyMeZkcU4 "CareVr Simulation Demo")
